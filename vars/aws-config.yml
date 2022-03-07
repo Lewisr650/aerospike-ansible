@@ -1,6 +1,6 @@
 # AWS - Region and AZ settings
 # ========================
-aws_region: us-east-1
+aws_region: us-east-2
 
 # We specify cluster in terms of nodes per az
 cluster_az_list:
